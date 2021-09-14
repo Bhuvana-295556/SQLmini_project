@@ -6,7 +6,7 @@ CREATE TABLE expense (
   [ExpenseCost] varchar(200) DEFAULT NULL,
   )
 
-  CREATE TABLE [user] (
+  CREATE TABLE user (
   [ID] int NOT NULL,
   [FullName]varchar(150) DEFAULT NULL,
   [Email] varchar(200) DEFAULT NULL,
