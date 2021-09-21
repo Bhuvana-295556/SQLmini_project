@@ -1,0 +1,6 @@
+E:\Mini_Project\Mini_Project_DTO\bin\Debug\Mini_Project_DTO.dll
+E:\Mini_Project\Mini_Project_DTO\bin\Debug\Mini_Project_DTO.pdb
+E:\Mini_Project\Mini_Project_DTO\obj\Debug\Mini_Project_DTO.csproj.AssemblyReference.cache
+E:\Mini_Project\Mini_Project_DTO\obj\Debug\Mini_Project_DTO.csproj.CoreCompileInputs.cache
+E:\Mini_Project\Mini_Project_DTO\obj\Debug\Mini_Project_DTO.dll
+E:\Mini_Project\Mini_Project_DTO\obj\Debug\Mini_Project_DTO.pdb

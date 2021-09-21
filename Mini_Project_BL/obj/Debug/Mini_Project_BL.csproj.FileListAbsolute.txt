@@ -1,0 +1,14 @@
+E:\Mini_Project\Mini_Project_BL\bin\Debug\Mini_Project_BL.dll
+E:\Mini_Project\Mini_Project_BL\bin\Debug\Mini_Project_BL.pdb
+E:\Mini_Project\Mini_Project_BL\bin\Debug\Mini_Project_DAL.dll
+E:\Mini_Project\Mini_Project_BL\bin\Debug\Mini_Project_DTO.dll
+E:\Mini_Project\Mini_Project_BL\bin\Debug\EntityFramework.dll
+E:\Mini_Project\Mini_Project_BL\bin\Debug\Mini_Project_DAL.pdb
+E:\Mini_Project\Mini_Project_BL\bin\Debug\Mini_Project_DAL.dll.config
+E:\Mini_Project\Mini_Project_BL\bin\Debug\Mini_Project_DTO.pdb
+E:\Mini_Project\Mini_Project_BL\bin\Debug\EntityFramework.xml
+E:\Mini_Project\Mini_Project_BL\obj\Debug\Mini_Project_BL.csproj.AssemblyReference.cache
+E:\Mini_Project\Mini_Project_BL\obj\Debug\Mini_Project_BL.csproj.CoreCompileInputs.cache
+E:\Mini_Project\Mini_Project_BL\obj\Debug\Mini_Project_BL.csproj.CopyComplete
+E:\Mini_Project\Mini_Project_BL\obj\Debug\Mini_Project_BL.dll
+E:\Mini_Project\Mini_Project_BL\obj\Debug\Mini_Project_BL.pdb
